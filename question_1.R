@@ -35,6 +35,8 @@ while(err > eps) {
   print(err)
 }
 
+#testing change for git
+
 #while (err > eps) {
 #  u = sum(x_train %*% b_last[2:21]) + b_last[1]
 #  grad[1] = sum(y_train-exp(u)/(1+exp(u)))
